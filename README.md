@@ -1,5 +1,5 @@
 # Moon-Phase-Reflections
-Daily mindfulness prompts depending on the current moon phase. The live site can be found [here](https://P1x3l-W0lf/github.io/Moon-Phase-Reflections/).
+Daily mindfulness prompts depending on the current moon phase. The live site can be found [here](https://P1x3l-W0lf.github.io/Moon-Phase-Reflections/).
 
 ## About This Project
 My mom wants me to develop an app for her, and this is essentially the rudimentary website v1. I think it was pretty successful, definitely has a long way to go before it is what she's looking for though.
